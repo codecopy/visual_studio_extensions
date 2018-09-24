@@ -48,17 +48,17 @@ Placeholders will be substituted with relevant data.
 
 After customizing your header, you can use the command. Right click on an opened file in your Visual Studio text editor. **Add Header** command is located (see image below) on top of the context menu.
 
-![AddHeaderCommand](Images\AddHeaderCommand.PNG)
+![AddHeaderCommand](Images/AddHeaderCommand.PNG)
 
 If you are logged in in Visual Studio, and still the result for *{author}* and *{email}* is *(Unknown)*, please check the destination of your *Registry Sub Key*. Default Sub Key is defined in *Default* section under *Execom Extensions* category.
 
-![Default Option](Images\DefaultOption.png)
+![Default Option](Images/DefaultOption.png)
 
 ##### Open Output Folder
 
 Command is used for opening the output folder of certain project. To use command, right click on a project inside of your solution in Visual Studio 2017. A context menu should pop up. In the context menu select **Open Output Folder** command (see image below). Location of output folder of the project is opened in File Explorer.
 
-![OpenOutputFolderCommand](Images/OpenOutputFolderCommand.png)
+![OpenOutputFolderCommand](Images/OpenOutputFolderCommand.PNG)
 
 ## License
 
