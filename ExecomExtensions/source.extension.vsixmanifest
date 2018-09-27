@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="ExecomExtensions.96b9920d-f509-4d74-a366-44d5b3f7d897" Version="1.0" Language="en-US" Publisher="Nikola Berdić" />
+        <Identity Id="ExecomExtensions.96b9920d-f509-4d74-a366-44d5b3f7d897" Version="1.0" Language="en-US" Publisher="Nikola Berdić, Goran Mocelj" />
         <DisplayName>ExecomExtensions</DisplayName>
         <Description xml:space="preserve">Execom extensions built for better productivity.</Description>
+        <MoreInfo>https://github.com/execom-eu/visual_studio_extensions</MoreInfo>
         <Icon>Resources\execom.png</Icon>
         <PreviewImage>Resources\execom.png</PreviewImage>
+        <Tags>Tools</Tags>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0, 16.0)" />
