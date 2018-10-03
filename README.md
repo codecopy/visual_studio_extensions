@@ -6,7 +6,7 @@ Contains various commands which are installed as extension package in Visual Stu
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. If you want just to try out the extension you can follow the [Installation Guide](https://docs.google.com/document/d/1Tj6ZINUyp5L6OByycdr6uZOtsB08yFoX7VRvhe-PRcs/edit?usp=sharing).
 
 #### Prerequisites
 
